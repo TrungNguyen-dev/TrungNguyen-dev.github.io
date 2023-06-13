@@ -94977,17 +94977,17 @@ $S:551}
 A.a5C.prototype={
 $0(){var s=this.a.$1$0(t.lJ).b
 s===$&&A.b()
-return new A.yF(new A.H5(s,"https://sunlay.online/api/admin"))},
+return new A.yF(new A.H5(s,"https://api.sunlay.online/api/admin"))},
 $S:552}
 A.a5D.prototype={
 $0(){var s=this.a.$1$0(t.lJ).b
 s===$&&A.b()
-return new A.yJ(new A.H5(s,"https://sunlay.online/api/admin"))},
+return new A.yJ(new A.H5(s,"https://api.sunlay.online/api/admin"))},
 $S:553}
 A.a5E.prototype={
 $0(){var s=this.a.$1$0(t.lJ).b
 s===$&&A.b()
-return new A.uW(new A.H5(s,"https://sunlay.online/api/admin"))},
+return new A.uW(new A.H5(s,"https://api.sunlay.online/api/admin"))},
 $S:554}
 A.uY.prototype={
 aS(a){var s=0,r=A.S(t.H),q=this
