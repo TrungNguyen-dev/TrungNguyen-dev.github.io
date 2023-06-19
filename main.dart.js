@@ -95764,6 +95764,7 @@ aD(){var s=this,r=s.a
 r=A.aLx(r.e-1,r.d,s)
 s.d!==$&&A.c8()
 s.d=r
+s.e.u(0,s.a.e-1)
 s.aT()},
 m(){this.e.aS(0)
 this.a6Y()},
