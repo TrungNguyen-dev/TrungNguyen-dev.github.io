@@ -97925,7 +97925,7 @@ $2(a,b){return a.x!=b.x},
 $S:91}
 A.ayF.prototype={
 $2(a,b){var s,r,q,p=b.a
-if(p===B.o3||p===B.fZ){p=this.a
+if((p===B.o3||p===B.fZ)&&this.a.e.a.a!==b.x){p=this.a
 s=b.x
 r=s==null
 q=r?"":s
